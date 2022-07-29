@@ -5,7 +5,8 @@ The code accompanying the paper Learning to Ask Like a Physician and Discharge S
 
 ![3_14_22_pipeline_single_line](https://user-images.githubusercontent.com/2821124/179035880-add52a01-b153-496c-9132-a983fb71aec2.png)
 
-> Coming Soon! Plan to release both code + data ASAP. Currently delayed due to bug with Physionet. Sorry about the delay! 
+The data has been released here: https://physionet.org/content/discq/1.0/
+You will still need to get n2c2/i2b2 access to the discharge summaries.
 
 # Citation
 
