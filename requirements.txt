@@ -1,0 +1,15 @@
+nltk==3.5
+transformers==4.14.0
+torch
+sklearn
+pandas
+sacrebleu
+rouge_score
+wandb
+tqdm
+datasets
+accelerate
+spacy
+scispacy
+matplotlib
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.1/en_core_sci_lg-0.5.1.tar.gz
